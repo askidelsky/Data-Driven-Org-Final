@@ -1,0 +1,291 @@
+manufacturer,model,year,price,odometer,condition,transmission,cylinders,fuel,title_status,drive,size,type,paint_color,state
+cadillac,cts,2012,12900,49600,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,white,fl
+audi,a5,2018,16000,28000,good,automatic,4 cylinders,gas,clean,fwd,compact,coupe,grey,fl
+ford,taurus_sel,2005,5500,93874,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,white,sd
+chevrolet,impala,2013,6500,70000,like new,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,black,or
+bmw,3-series,2008,6200,124511,excellent,automatic,6 cylinders,gas,clean,rwd,compact,sedan,silver,va
+ford,focus,2014,6495,87100,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,grey,tx
+ford,focus,2015,7495,89144,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,blue,tx
+ford,focus,2014,5495,64365,excellent,manual,4 cylinders,gas,clean,fwd,compact,sedan,blue,tx
+chevrolet,camaro,2013,13000,124418,good,automatic,8 cylinders,gas,clean,rwd,mid-size,coupe,yellow,al
+ford,focus,2007,2000,276000,good,automatic,4 cylinders,gas,clean,fwd,sub-compact,sedan,red,az
+bmw,325i,2006,2000,134589,fair,automatic,6 cylinders,gas,clean,fwd,mid-size,coupe,blue,az
+ford,focus,2006,4995,55000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,grey,me
+ford,mustang,2003,3000,159000,excellent,automatic,6 cylinders,gas,clean,fwd,compact,coupe,black,al
+ford,focus,2007,1500,330000,good,automatic,4 cylinders,gas,clean,fwd,compact,sedan,black,az
+chevrolet,traverse_ltz,2011,9500,110075,excellent,automatic,6 cylinders,gas,lien,fwd,full-size,SUV,brown,az
+chevrolet,camaro,2013,12900,77000,excellent,automatic,8 cylinders,gas,clean,rwd,mid-size,convertible,grey,az
+ford,taurus_sel,2008,7500,92000,like new,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,red,al
+ford,focus,2010,4999,85109,excellent,automatic,4 cylinders,gas,clean,fwd,mid-size,sedan,white,az
+bmw,3-series,2003,3599,155713,excellent,automatic,6 cylinders,gas,clean,rwd,compact,sedan,blue,tx
+cadillac,srx,2012,10995,113002,good,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,white,tx
+chevrolet,camaro,2015,14995,66570,good,automatic,6 cylinders,gas,clean,rwd,mid-size,coupe,red,tx
+ford,mustang,2009,7300,133671,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,coupe,white,az
+chevrolet,camaro,2015,15200,49479,excellent,manual,6 cylinders,other,clean,rwd,full-size,coupe,red,fl
+bmw,325i,2009,4500,215,good,manual,6 cylinders,gas,clean,fwd,mid-size,sedan,grey,az
+bmw,3-series,2016,23995,22415,excellent,automatic,4 cylinders,gas,clean,rwd,mid-size,sedan,blue,fl
+audi,a3,2017,25995,23636,excellent,automatic,4 cylinders,gas,clean,4wd,mid-size,sedan,red,fl
+bmw,335i,2013,25990,43772,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,convertible,blue,fl
+chevrolet,camaro,1995,19999,31450,like new,manual,8 cylinders,gas,clean,rwd,mid-size,convertible,green,fl
+bmw,328xi,2007,3200,199000,good,automatic,6 cylinders,gas,clean,4wd,mid-size,sedan,blue,me
+ford,focus,2003,2259,219442,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,black,mt
+audi,a4,2009,6495,125320,excellent,automatic,4 cylinders,gas,clean,4wd,compact,sedan,silver,or
+bmw,335i,2011,9600,103000,good,automatic,6 cylinders,gas,clean,4wd,mid-size,sedan,red,sd
+bmw,x3,2009,8495,118523,good,automatic,6 cylinders,gas,clean,4wd,full-size,SUV,blue,me
+ford,transit,2016,26000,70000,good,automatic,6 cylinders,gas,lien,rwd,mid-size,van,white,sd
+ford,focus,2014,6995,80106,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,black,or
+chevrolet,impala,2012,10990,99023,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,blue,me
+chevrolet,impala,2013,5995,111065,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,wi
+bmw,x3,2008,6000,170000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,SUV,blue,az
+ford,mustang,2000,3900,169500,excellent,automatic,8 cylinders,gas,clean,rwd,mid-size,convertible,red,az
+chevrolet,traverse_ltz,2010,9999,111821,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,black,mt
+ford,transit,2016,26500,29666,good,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,az
+chevrolet,trailblazer_lt,2004,3200,198087,good,automatic,6 cylinders,gas,clean,4wd,mid-size,SUV,silver,mt
+ford,mustang,2008,6750,74865,good,automatic,6 cylinders,gas,clean,rwd,compact,convertible,black,fl
+chevrolet,impala,2010,4999,58512,excellent,automatic,6 cylinders,other,clean,fwd,full-size,other,black,fl
+bmw,328xi,2007,4000,117000,excellent,automatic,6 cylinders,gas,clean,rwd,compact,sedan,black,az
+bmw,3-series,2004,3595,189509,excellent,automatic,6 cylinders,gas,clean,rwd,sub-compact,coupe,black,or
+cadillac,cts,2015,22000,43000,like new,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,or
+chevrolet,impala,2013,8995,85000,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,black,ny
+ford,taurus_sel,2008,8000,153,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,or
+ford,taurus_sel,2011,12500,118000,good,automatic,6 cylinders,gas,rebuilt,fwd,mid-size,sedan,red,ca
+chevrolet,impala,2010,5200,153000,good,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,black,sd
+cadillac,cts,2008,4200,145000,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,white,va
+ford,mustang,2017,16995,32944,excellent,automatic,6 cylinders,gas,clean,rwd,compact,coupe,grey,fl
+chevrolet,trailblazer_lt,2005,4000,111640,good,automatic,6 cylinders,gas,clean,rwd,full-size,SUV,custom,ca
+ford,focus,2006,3500,102320,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,grey,or
+ford,focus,2009,3995,132492,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,blue,or
+chevrolet,camaro,2017,21000,25781,like new,automatic,6 cylinders,gas,lien,rwd,compact,coupe,blue,fl
+chevrolet,trailblazer_lt,2006,3500,157,excellent,automatic,6 cylinders,gas,clean,4wd,mid-size,SUV,black,wi
+ford,mustang,2001,3500,200000,good,automatic,6 cylinders,gas,clean,rwd,mid-size,convertible,red,fl
+chevrolet,impala,2005,3990,94000,like new,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,grey,ca
+bmw,325i,2005,3700,147000,excellent,other,6 cylinders,gas,clean,rwd,mid-size,sedan,white,ca
+ford,mustang,2007,5800,155000,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,coupe,grey,tx
+ford,focus,2013,10000,44668,good,automatic,4 cylinders,gas,lien,fwd,full-size,sedan,blue,sc
+audi,a4,2015,15400,62400,good,automatic,4 cylinders,gas,clean,fwd,mid-size,sedan,white,sc
+chevrolet,traverse_ltz,2010,5000,160000,like new,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,grey,va
+audi,a5,2014,12800,22000,excellent,automatic,4 cylinders,gas,rebuilt,4wd,mid-size,coupe,black,wi
+audi,a4,2008,4700,136000,good,automatic,4 cylinders,gas,clean,4wd,full-size,sedan,blue,sc
+bmw,x3,2006,4900,135469,excellent,automatic,6 cylinders,gas,clean,4wd,mid-size,SUV,silver,sc
+ford,taurus_sel,2008,8700,107501,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,black,me
+ford,mustang,2010,6500,226000,good,automatic,6 cylinders,gas,clean,rwd,mid-size,convertible,red,tn
+ford,taurus_sel,2008,8500,69000,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,me
+cadillac,cts,2009,4500,156000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,sc
+chevrolet,impala,2013,3995,161149,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,ca
+ford,taurus_sel,2002,2999,92764,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,blue,md
+cadillac,cts,2019,12900,20000,like new,automatic,6 cylinders,gas,salvage,fwd,mid-size,sedan,black,or
+ford,mustang,2008,4700,184006,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,coupe,red,ca
+ford,mustang,2004,6995,29312,excellent,manual,6 cylinders,gas,clean,rwd,compact,coupe,orange,or
+bmw,328xi,2007,3200,199000,good,automatic,6 cylinders,gas,clean,4wd,mid-size,sedan,blue,me
+bmw,328xi,2007,3900,174000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,black,me
+ford,taurus_sel,2008,8300,230000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,black,tn
+chevrolet,trailblazer_lt,2009,7400,128000,good,automatic,6 cylinders,gas,clean,rwd,mid-size,SUV,white,ca
+ford,transit,2015,23000,83302,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,van,white,va
+bmw,328xi,2011,10995,88200,excellent,automatic,6 cylinders,gas,clean,rwd,full-size,coupe,silver,ca
+ford,transit,2015,21900,72871,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,van,white,va
+ford,focus,2006,3450,154955,excellent,manual,4 cylinders,gas,clean,fwd,compact,sedan,red,or
+ford,transit,2017,24000,110161,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,va
+bmw,x3,2004,2000,133500,fair,automatic,6 cylinders,gas,clean,4wd,mid-size,SUV,blue,mt
+ford,taurus_sel,2012,13800,53000,like new,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,red,mt
+ford,transit,2016,24500,59267,like new,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,ny
+ford,flex,2019,18000,29317,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,wagon,white,al
+chevrolet,impala,2014,11000,56000,excellent,automatic,6 cylinders,gas,clean,fwd,compact,sedan,white,al
+ford,edge,2019,24998,29941,excellent,automatic,4 cylinders,gas,clean,4wd,mid-size,SUV,white,al
+ford,focus,2015,6750,69124,fair,manual,3 cylinders,gas,clean,fwd,compact,sedan,grey,az
+cadillac,srx,2008,2995,187854,like new,automatic,6 cylinders,gas,clean,rwd,full-size,SUV,black,fl
+audi,a4,2006,4499,169000,good,automatic,4 cylinders,gas,clean,4wd,mid-size,sedan,grey,mt
+chevrolet,impala,2007,4550,129000,good,automatic,6 cylinders,gas,lien,fwd,full-size,sedan,white,mt
+chevrolet,camaro,2013,12900,23955,like new,manual,8 cylinders,gas,clean,rwd,full-size,coupe,custom,me
+ford,focus,2014,5495,111238,good,automatic,4 cylinders,gas,clean,fwd,mid-size,sedan,red,tn
+chevrolet,impala,2012,4500,196342,good,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,white,ny
+ford,taurus_sel,2010,9800,142511,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,white,va
+ford,taurus_sel,2002,2800,187000,good,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,grey,va
+ford,focus,2011,4900,133000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,black,va
+chevrolet,impala,2012,3999,134000,good,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,white,or
+bmw,335i,2010,8600,120000,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,sedan,black,ny
+ford,focus,2013,5750,97427,excellent,automatic,4 cylinders,gas,clean,fwd,compact,hatchback,red,or
+ford,taurus_sel,2011,11900,171000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,black,md
+ford,transit,2015,17400,101259,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,or
+ford,taurus_sel,2005,6300,70685,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,red,md
+ford,transit,2018,27000,11719,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,or
+ford,focus,2007,4999,20400,like new,automatic,4 cylinders,gas,clean,fwd,compact,sedan,silver,md
+bmw,328xi,2008,5795,127688,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,custom,az
+ford,focus,2010,5499,117000,like new,automatic,4 cylinders,gas,clean,fwd,mid-size,sedan,grey,or
+chevrolet,camaro,2002,11500,39800,excellent,manual,8 cylinders,gas,clean,rwd,mid-size,coupe,black,md
+audi,a3,2008,5995,97000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,hatchback,white,md
+chevrolet,impala,2014,11500,68000,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,white,sc
+chevrolet,impala,2013,5250,108000,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,silver,sc
+audi,a5,2010,8990,110021,excellent,automatic,4 cylinders,gas,clean,4wd,mid-size,coupe,grey,or
+ford,taurus_sel,2002,1800,192503,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,brown,sc
+ford,focus,2015,6900,77000,new,automatic,4 cylinders,gas,clean,fwd,full-size,hatchback,black,wi
+ford,focus,2017,9495,67648,like new,automatic,4 cylinders,gas,clean,fwd,compact,sedan,grey,tn
+ford,focus,2017,9995,16252,like new,automatic,4 cylinders,gas,clean,fwd,compact,sedan,white,tn
+cadillac,srx,2012,12495,78300,excellent,automatic,6 cylinders,gas,clean,4wd,mid-size,SUV,grey,ny
+ford,flex,2014,13300,141803,like new,automatic,6 cylinders,gas,clean,fwd,full-size,wagon,blue,ca
+audi,a4,2005,3995,146000,like new,automatic,4 cylinders,gas,clean,fwd,compact,sedan,grey,or
+ford,focus,2010,2200,200000,good,automatic,4 cylinders,gas,clean,fwd,mid-size,sedan,red,ny
+chevrolet,impala,1963,19000,1555,excellent,automatic,8 cylinders,gas,clean,rwd,compact,wagon,blue,wi
+chevrolet,camaro,2000,11000,32000,excellent,automatic,8 cylinders,gas,clean,rwd,mid-size,coupe,grey,md
+chevrolet,impala,2013,5500,80250,good,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,grey,or
+bmw,328xi,2009,3995,104481,like new,automatic,6 cylinders,gas,clean,4wd,full-size,sedan,silver,fl
+cadillac,srx,2013,17900,43165,good,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,white,tn
+cadillac,cts,2012,12995,49000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,red,ny
+chevrolet,impala,2012,7500,73300,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,black,ia
+ford,mustang,1987,15000,97500,excellent,manual,8 cylinders,gas,clean,rwd,full-size,coupe,white,va
+ford,transit,2019,29000,10436,good,automatic,6 cylinders,gas,clean,fwd,mid-size,van,white,sc
+ford,focus,2015,6995,47330,excellent,automatic,4 cylinders,gas,rebuilt,fwd,mid-size,sedan,black,ia
+bmw,x3,2006,7995,141211,excellent,automatic,6 cylinders,gas,clean,4wd,compact,SUV,blue,or
+ford,mustang,2015,15266,77121,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,coupe,yellow,or
+ford,focus,2007,8999,41140,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,red,ca
+ford,mustang,2014,18999,105634,excellent,manual,8 cylinders,gas,clean,rwd,sub-compact,coupe,blue,ca
+bmw,335i,2012,13250,89000,like new,automatic,6 cylinders,gas,lien,4wd,full-size,sedan,white,ia
+cadillac,srx,2013,12500,99626,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,grey,ca
+ford,focus,2013,5999,69000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,black,ia
+chevrolet,camaro,2010,10999,119401,excellent,automatic,6 cylinders,gas,clean,rwd,compact,coupe,black,ca
+ford,taurus_sel,2005,5900,139909,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,red,or
+bmw,3-series,2007,8500,126651,excellent,automatic,6 cylinders,gas,clean,rwd,sub-compact,coupe,grey,ca
+ford,focus,2012,3000,170000,excellent,manual,4 cylinders,gas,clean,fwd,compact,sedan,grey,wi
+cadillac,srx,2017,15500,61583,like new,automatic,6 cylinders,gas,clean,rwd,full-size,sedan,silver,tn
+ford,focus,2013,4500,147895,good,automatic,4 cylinders,gas,clean,fwd,mid-size,hatchback,silver,fl
+ford,focus,2011,3900,109000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,grey,ia
+ford,mustang,1996,9999,95473,excellent,automatic,8 cylinders,gas,clean,rwd,sub-compact,convertible,grey,ca
+cadillac,srx,2014,13500,105853,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,black,ca
+audi,a4,2007,3995,184541,excellent,manual,4 cylinders,gas,clean,fwd,mid-size,sedan,silver,fl
+bmw,325i,2004,2995,159789,good,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,grey,fl
+chevrolet,traverse_ltz,2012,11900,50926,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,black,md
+bmw,3-series,2006,3999,171453,excellent,automatic,6 cylinders,gas,clean,rwd,compact,sedan,silver,ca
+bmw,328xi,2004,6995,196545,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,convertible,blue,wi
+ford,flex,2013,11495,100282,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,wagon,grey,or
+bmw,328xi,2009,3995,104481,like new,automatic,6 cylinders,gas,clean,4wd,full-size,sedan,silver,fl
+chevrolet,impala,2008,3999,110087,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,grey,va
+ford,focus,2016,7995,52571,excellent,automatic,4 cylinders,other,clean,fwd,mid-size,sedan,black,or
+bmw,328xi,2014,10995,114459,excellent,automatic,4 cylinders,diesel,clean,rwd,mid-size,sedan,black,or
+chevrolet,camaro,2019,24995,23665,like new,automatic,6 cylinders,gas,clean,rwd,mid-size,coupe,black,ca
+cadillac,cts,2010,7000,97000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,red,fl
+ford,transit,2019,28900,13859,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,md
+bmw,335i,2009,9500,113201,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,grey,fl
+chevrolet,impala,2011,5995,122496,like new,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,ca
+ford,mustang,2014,14500,39000,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,convertible,white,sd
+chevrolet,traverse_ltz,2019,25550,31600,like new,automatic,6 cylinders,gas,rebuilt,fwd,full-size,SUV,red,sd
+chevrolet,impala,2010,5200,153000,good,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,black,ia
+ford,taurus_sel,2007,6300,163000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,md
+chevrolet,impala,2004,3500,150000,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,grey,sd
+ford,focus,2007,2795,121000,good,automatic,4 cylinders,gas,salvage,fwd,mid-size,wagon,grey,sd
+ford,focus,2007,3995,95000,good,automatic,4 cylinders,gas,clean,fwd,mid-size,sedan,silver,sd
+chevrolet,impala,2006,3500,144800,good,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,silver,sd
+chevrolet,camaro,2012,15950,42944,excellent,automatic,6 cylinders,gas,clean,rwd,full-size,coupe,white,sd
+cadillac,cts,2003,4500,74000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,SUV,black,ia
+cadillac,srx,2008,4950,155000,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,SUV,grey,ia
+chevrolet,impala,2016,15995,66000,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,black,sd
+ford,focus,2014,5900,47000,good,automatic,4 cylinders,gas,salvage,fwd,mid-size,sedan,silver,sd
+bmw,328xi,2007,3995,186,good,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,black,tn
+bmw,328xi,2011,5995,112590,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,silver,ca
+ford,mustang,2014,25000,4400,like new,manual,8 cylinders,gas,clean,rwd,mid-size,coupe,grey,tn
+chevrolet,traverse_ltz,2012,11950,107268,good,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,black,al
+chevrolet,impala,2013,6950,126229,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,white,al
+chevrolet,impala,2016,14495,37372,excellent,automatic,6 cylinders,other,clean,fwd,mid-size,sedan,white,or
+ford,focus,2014,5500,84000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,hatchback,white,al
+ford,flex,2009,7495,148224,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,wagon,white,or
+audi,a4,2009,2500,112000,good,automatic,4 cylinders,gas,clean,4wd,mid-size,sedan,white,fl
+bmw,328xi,2012,11995,60495,excellent,automatic,4 cylinders,gas,clean,rwd,full-size,sedan,blue,az
+chevrolet,impala,2017,10999,55500,like new,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,silver,ia
+ford,transit,2017,26800,69697,excellent,automatic,6 cylinders,other,clean,rwd,mid-size,van,white,or
+ford,mustang,2000,2500,216000,fair,automatic,6 cylinders,gas,clean,rwd,sub-compact,coupe,black,fl
+audi,a4,2013,14495,42897,excellent,automatic,4 cylinders,gas,clean,4wd,mid-size,sedan,black,az
+ford,mustang,2010,6995,129000,excellent,manual,6 cylinders,gas,clean,rwd,mid-size,coupe,silver,fl
+ford,taurus_sel,2011,12900,171000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,black,md
+audi,a4,2008,4775,127000,good,automatic,4 cylinders,gas,clean,4wd,compact,sedan,black,fl
+cadillac,cts,2008,13000,77000,excellent,automatic,6 cylinders,gas,salvage,rwd,mid-size,SUV,grey,nc
+bmw,328xi,2014,13995,87112,excellent,automatic,4 cylinders,diesel,clean,4wd,mid-size,sedan,black,or
+cadillac,cts,2013,19000,63647,excellent,automatic,8 cylinders,gas,clean,rwd,mid-size,wagon,white,or
+ford,flex,2017,17500,42926,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,wagon,white,tn
+bmw,328xi,2007,5500,155000,excellent,automatic,6 cylinders,gas,clean,rwd,compact,sedan,black,tn
+bmw,335i,2008,8500,105,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,white,or
+ford,focus,2014,5900,47000,good,automatic,4 cylinders,gas,salvage,fwd,mid-size,sedan,silver,sd
+chevrolet,impala,2006,3000,151000,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,red,fl
+chevrolet,trailblazer_lt,2006,5800,127400,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,SUV,brown,nc
+chevrolet,impala,2010,2500,170000,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,white,fl
+chevrolet,trailblazer_lt,2005,2200,247000,good,automatic,6 cylinders,gas,clean,4wd,full-size,SUV,grey,fl
+bmw,325i,2006,4950,126000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,convertible,silver,tn
+chevrolet,camaro,2019,24995,23665,like new,automatic,6 cylinders,gas,clean,rwd,mid-size,coupe,black,ca
+ford,mustang,2012,7900,77000,good,manual,6 cylinders,gas,rebuilt,rwd,full-size,coupe,black,md
+ford,transit,2018,26900,28500,good,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,fl
+chevrolet,traverse_ltz,2012,7500,133000,good,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,silver,vt
+audi,a4,2017,23500,42000,excellent,automatic,4 cylinders,gas,clean,4wd,mid-size,sedan,red,vt
+bmw,328xi,2007,6499,169400,excellent,manual,6 cylinders,gas,clean,4wd,mid-size,coupe,grey,vt
+bmw,328xi,2007,6499,144500,excellent,manual,6 cylinders,gas,clean,4wd,mid-size,sedan,black,vt
+ford,taurus_sel,2002,2999,82000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,grey,va
+cadillac,cts,2008,13500,133000,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,SUV,red,va
+bmw,328xi,2007,7999,112900,excellent,manual,6 cylinders,gas,clean,4wd,mid-size,sedan,black,vt
+bmw,325i,2006,8999,137500,excellent,manual,6 cylinders,gas,clean,4wd,mid-size,wagon,white,vt
+bmw,325i,2006,6999,132000,excellent,manual,6 cylinders,gas,clean,4wd,mid-size,sedan,black,vt
+bmw,325i,2001,5999,127500,excellent,manual,6 cylinders,gas,clean,rwd,mid-size,sedan,white,vt
+ford,mustang,2010,9995,97870,good,automatic,6 cylinders,gas,clean,rwd,sub-compact,coupe,black,or
+ford,focus,2016,7500,111904,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,silver,wi
+bmw,325i,2003,5495,119032,good,manual,6 cylinders,gas,clean,rwd,full-size,sedan,black,or
+ford,focus,2013,5850,85000,good,automatic,4 cylinders,gas,clean,fwd,mid-size,sedan,silver,fl
+cadillac,srx,2011,9900,85000,like new,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,brown,fl
+chevrolet,camaro,2013,12900,31127,good,automatic,8 cylinders,gas,clean,rwd,compact,coupe,grey,fl
+audi,a3,2012,9995,71460,good,automatic,4 cylinders,gas,clean,fwd,compact,wagon,silver,or
+ford,mustang,2009,9300,116000,good,automatic,6 cylinders,gas,clean,rwd,sub-compact,coupe,grey,az
+ford,taurus_sel,2006,6800,167553,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,green,wi
+ford,focus,2016,8400,7400,excellent,automatic,4 cylinders,gas,clean,fwd,mid-size,sedan,silver,az
+chevrolet,camaro,2011,10800,137170,excellent,manual,6 cylinders,gas,clean,rwd,compact,coupe,black,ca
+bmw,325i,2004,3995,115920,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,silver,ca
+bmw,3-series,2001,4795,128167,excellent,manual,6 cylinders,gas,clean,rwd,compact,sedan,blue,or
+bmw,328xi,2011,6995,99400,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,grey,ca
+bmw,335i,2013,13999,72000,good,automatic,6 cylinders,gas,salvage,4wd,full-size,sedan,white,nc
+chevrolet,traverse_ltz,2018,22000,16600,like new,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,grey,tn
+bmw,x3,2011,12000,114567,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,SUV,silver,tn
+audi,a4,2013,12495,83550,excellent,automatic,4 cylinders,gas,clean,4wd,compact,sedan,black,or
+ford,edge,2018,16327,61089,good,automatic,4 cylinders,gas,clean,fwd,full-size,SUV,silver,tn
+ford,mustang,1968,14990,83886,good,automatic,8 cylinders,gas,clean,rwd,mid-size,coupe,white,md
+ford,edge,2018,16327,61089,good,automatic,4 cylinders,gas,clean,fwd,full-size,SUV,silver,nc
+bmw,325i,2006,4950,126000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,convertible,silver,tn
+ford,focus,2013,6500,108594,excellent,automatic,4 cylinders,gas,clean,fwd,mid-size,hatchback,red,nc
+chevrolet,impala,2010,5490,112114,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,sedan,black,tn
+ford,taurus_sel,2017,19500,25060,like new,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,white,md
+bmw,x3,2006,4600,169000,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,SUV,blue,md
+bmw,328xi,2013,12500,88515,excellent,manual,4 cylinders,gas,clean,rwd,mid-size,sedan,grey,md
+bmw,x3,2013,14150,73794,good,automatic,4 cylinders,gas,clean,4wd,full-size,SUV,silver,ny
+bmw,328xi,2009,4800,143000,good,automatic,6 cylinders,gas,clean,4wd,compact,coupe,grey,md
+bmw,3-series,2012,14995,48255,excellent,automatic,6 cylinders,gas,clean,rwd,sub-compact,coupe,grey,or
+ford,focus,2016,7995,88444,excellent,manual,3 cylinders,gas,clean,fwd,compact,sedan,grey,or
+ford,transit,2019,29995,27063,good,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,ny
+ford,transit,2019,31000,15985,good,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,ny
+chevrolet,trailblazer_lt,2004,4500,90000,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,SUV,brown,va
+audi,a3,2015,18000,57760,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,black,tn
+cadillac,cts,2013,19800,55890,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,SUV,red,fl
+bmw,x3,2006,4500,154500,good,automatic,6 cylinders,gas,clean,4wd,mid-size,SUV,black,fl
+ford,mustang,2013,13995,48194,excellent,manual,6 cylinders,gas,clean,rwd,sub-compact,coupe,grey,oh
+cadillac,srx,2011,11250,96003,excellent,automatic,6 cylinders,gas,clean,4wd,mid-size,SUV,silver,va
+cadillac,cts,2010,16800,58475,excellent,automatic,6 cylinders,gas,lien,4wd,mid-size,SUV,silver,md
+ford,taurus_sel,2005,6300,91000,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,tn
+bmw,335i,2011,9900,84158,excellent,automatic,6 cylinders,gas,clean,4wd,sub-compact,sedan,black,nc
+audi,a4,2012,10735,78910,excellent,automatic,4 cylinders,gas,clean,4wd,full-size,sedan,black,va
+ford,focus,2005,2495,124715,excellent,automatic,4 cylinders,gas,clean,fwd,compact,sedan,grey,or
+cadillac,srx,2012,11995,121000,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,SUV,black,ny
+ford,flex,2009,8300,162896,good,automatic,6 cylinders,gas,clean,fwd,full-size,wagon,white,az
+chevrolet,impala,2010,5400,62000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,custom,tn
+chevrolet,trailblazer_lt,2005,3300,233000,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,SUV,grey,tn
+chevrolet,camaro,1975,15500,21000,excellent,automatic,8 cylinders,gas,clean,rwd,compact,coupe,silver,tn
+ford,edge,2018,21985,19824,like new,automatic,4 cylinders,gas,clean,fwd,mid-size,SUV,grey,tn
+ford,transit,2018,28000,50449,good,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,wi
+cadillac,cts,2012,18500,116136,good,automatic,6 cylinders,gas,clean,4wd,mid-size,SUV,silver,md
+chevrolet,traverse_ltz,2016,18999,68724,excellent,automatic,6 cylinders,gas,clean,fwd,full-size,SUV,grey,va
+ford,flex,2010,9500,189043,good,automatic,6 cylinders,gas,clean,fwd,full-size,wagon,grey,md
+chevrolet,impala,2004,2400,105000,good,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,white,fl
+ford,focus,2007,2750,128335,excellent,manual,4 cylinders,gas,clean,fwd,compact,hatchback,yellow,md
+chevrolet,trailblazer_lt,2007,5995,158335,good,automatic,6 cylinders,gas,clean,rwd,mid-size,SUV,white,wi
+cadillac,srx,2009,5200,94000,like new,automatic,6 cylinders,gas,clean,rwd,mid-size,sedan,white,fl
+ford,mustang,2013,2500,61000,excellent,automatic,6 cylinders,gas,clean,rwd,compact,coupe,grey,tn
+ford,flex,2014,13300,62000,excellent,automatic,6 cylinders,gas,rebuilt,rwd,full-size,wagon,black,tn
+bmw,325i,2006,4950,126000,excellent,automatic,4 cylinders,gas,clean,fwd,compact,convertible,silver,tn
+ford,taurus_sel,2008,8700,152000,excellent,automatic,6 cylinders,gas,clean,fwd,mid-size,sedan,silver,ma
+ford,transit,2015,26000,42685,excellent,automatic,6 cylinders,gas,clean,rwd,mid-size,van,red,ma
+bmw,328xi,2015,29999,34985,excellent,automatic,6 cylinders,gas,lien,4wd,compact,sedan,grey,ny
+cadillac,srx,2013,12895,89371,excellent,automatic,6 cylinders,gas,clean,4wd,full-size,sedan,black,ma
+ford,transit,2017,27500,30000,good,automatic,6 cylinders,gas,clean,rwd,mid-size,van,white,or
+bmw,328xi,2013,13997,71520,excellent,manual,6 cylinders,gas,clean,rwd,compact,coupe,blue,ma
+ford,mustang,1968,14990,83886,good,automatic,8 cylinders,gas,clean,rwd,mid-size,coupe,white,wi
+bmw,328xi,2014,12995,83952,excellent,automatic,4 cylinders,diesel,clean,4wd,mid-size,sedan,white,ma
