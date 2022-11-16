@@ -21,8 +21,8 @@ Data Source: https://www.sports-reference.com/cfb/schools/alabama/
 Colab Notebook for data exploration: https://colab.research.google.com/drive/1qyO6a8NYBC8r7j8JfT3JY1WrPHE9pUOH#scrollTo=uZ44_3TbjmwO
 
 Plans for final project:
-Gather Data: Avi
-Analyze Data: Samyog
-Create User Persona Documents:
-Create Journey Map:
-Big Idea Template:
+* Gather Data: Avi
+* Analyze Data: Samyog
+* Create User Persona Documents:
+* Create Journey Map:
+* Big Idea Template:
