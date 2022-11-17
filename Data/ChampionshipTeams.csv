@@ -1,0 +1,133 @@
+Player,Position,Height(In),Weight(lb),DominantHand,City,State,School,Year,WonNationalChampionship
+Joe Burrow,QB,76,221,R,Athens,OH,LSU,SR,Y
+Myles Brennan,QB,76,210,,,,LSU,SO,Y
+Clyde Edwards-Helaire,RB,68,209,,Baton Rouge,LA,LSU,JR,Y
+Ty Davis-Price,RB,73,232,,,,LSU,FR,Y
+John Emery Jr,RB,71,215,,,,LSU,FR,Y
+Chris Curry,RB,71,215,,,,LSU,FR,Y
+Lanard Fournette,RB,71,200,,,,LSU,SR,Y
+Ja'Marr Chase,WR,73,200,,Harvey,LA,LSU,SO,Y
+Justin Jefferson,WR,73,195,,St Rose,LA,LSU,JR,Y
+Terrace Marshall Jr,WR,74,200,,Bossier City,LA,LSU,SO,Y
+Racey McMath,WR,75,217,,New Orleans,LA,LSU,JR,Y
+Derrick Dillon,WR,71,185,,,,LSU,SR,Y
+Jaray Jenkins,WR,76,194,,,,LSU,FR,Y
+Jontre Kirklin,WR,72,184,,Lutcher,LA,LSU,JR,Y
+Devonta Lee,WR,74,224,,,,LSU,FR,Y
+Trey Palmer,WR,72,180,,,,LSU,FR,Y
+Thaddeus Moss,TE,75,249,,Charlotte,NC,LSU,JR,Y
+Stephen Sullivan,TE,77,248,,Donaldsonville,LA,LSU,SR,Y
+Jamal Pettigrew,TE,79,254,,,,LSU,JR,Y
+Adrian Magee,OL,76,343,,,,LSU,SR,Y
+Austin Deculus,OL,78,325,,Mamou,LA,LSU,JR,Y
+Breiden Fehoko,DL,74,295,,Honolulu,HI,LSU,SR,Y
+Rashard Lawrence,DL,74,308,,Monroe,LA,LSU,SR,Y
+Andre Anthony,LB,75,255,,New Orleans,LA,LSU,JR,Y
+Micah Baskerville,LB,73,231,,,,LSU,SO,Y
+K'Lavon Chaisson,LB,75,254,,Houston,TX,LSU,JR,Y
+Damone Clark,LB,75,245,,Baton Rouge,LA,LSU,SO,Y
+Michael Divinity Jr,LB,74,238,,Marrero,LA,LSU,SR,Y
+Jacob Phillips,LB,76,233,,Nashville,TN,LSU,JR,Y
+Patrick Queen,LB,72,232,,Ventress,LA,LSU,JR,Y
+Zach Von Rosenberg,P,77,245,,,,LSU,JR,Y
+Avery Atkins,PK,71,214,,,,LSU,SO,Y
+Grant Delpit,S,74,213,,,,LSU,JR,Y
+Kristian Fulton,CB,71,197,,New Orleans,LA,LSU,SR,Y
+Damien Lewis,OL,74,327,,Biloxi,MS,LSU,SR,Y
+Tyler Shelvin,DL,75,346,,Lafayette,LA,LSU,SO,Y
+JaCoby Stevens,S,74,230,,Murfreesboro,TN,LSU,JR,Y
+Derek Stingley Jr,CB,73,195,,Baton Rouge,LA,LSU,FR,Y
+Kary Vincent Jr,CB,70,185,,Port Arthur,TX,LSU,JR,Y
+Cade York,PK,73,198,,McKinney,TX,LSU,FR,Y
+Saahdiq Charles,T,76,322,,Jackson,MS,LSU,JR,Y
+Lloyd Cushenberry III,C,75,312,,Geismar,LA,LSU,JR,Y
+Blake Ferguson,LS,75,237,,Smyrna,GA,LSU,SR,Y
+Clinton Portis,RB,71,218,R,Gainesville,FL,Miami,JR,Y
+Ken Dorsey,QB,76,220,R,Orinda,CA,Miami,JR,Y
+Willis McGahee,RB,72,235,,Miami,FL,Miami,FR,Y
+Frank Gore,RB,69,212,,Coral Gables,FL,Miami,FR,Y
+Najeh Davenport,RB,73,247,,Miami,FL,Miami,SR,Y
+Jarrett Payton,RB,72,220,,Arlington,IL,Miami,SO,Y
+Andre Johnson,WR,75,229,,Miami,FL,Miami,SO,Y
+Daryl Jones,WR,69,190,,Dallas,TX,Miami,SR,Y
+Jeremy Shockey,TE,77,251,,Ada,OK,Miami,JR,Y
+Kellen Winslow,TE,76,240,,San Diego,CA,Miami,FR,Y
+Ed Reed,DB,71,205,,St Rose,LA,Miami,SR,Y
+Phillip Buchanon,DB,71,190,,Fort Myers,FL,Miami,JR,Y
+William Joseph,DL,77,310,,Miami,FL,Miami,JR,Y
+Jerome McDougle,OL,74,264,,Pompano Beach,FL,Miami,JR,Y
+Antrel Rolle,DB,72,206,,Homestead,FL,Miami,FR,Y
+Jonathan Vilma,LB,73,230,,Coral Gables,FL,Miami,SO,Y
+Matt Walters,DL,77,272,,Melbourne,FL,Miami,JR,Y
+Vince Wilfork,DL,74,325,,Boynton Beach,FL,Miami,FR,Y
+Andrew Williams,DL,74,280,,Tampa,FL,Miami,JR,Y
+Darrell McClover,LB,73,226,,Hollywood,FL,Miami,SO,Y
+Vince Young,QB,77,232,R,Houston,TX,Texas,JR,Y
+Jamaal Charles,RB,71,199,,Port Arthur,TX,Texas,FR,Y
+Selvin Young,RB,71,215,,Houston,TX,Texas,JR,Y
+Henry Melton,RB,75,280,,Grapevine,TX,Texas,FR,Y
+Chris Ogbannaya,RB,72,220,,Houston,TX,Texas,FR,Y
+Ahmard Hall,RB,71,241,,Galveston,TX,Texas,SR,Y
+Limas Sweed,WR,77,220,,Grimes County,TX,Texas,SO,Y
+Quan Cosby,WR,69,191,,Waco,TX,Texas,FR,Y
+Nate Jones,WR,73,195,,Texarkana,TX,Texas,SO,Y
+David Thomas,TE,75,248,,Plainview,TX,Texas,SR,Y
+Tim Crowder,DL,76,272,,Tyler,TX,Texas,JR,Y
+Frank Okam,DL,76,319,,Lake Highlands,TX,Texas,SO,Y
+Rodrique Wright,DL,77,300,,Houston,TX,Texas,SR,Y
+Derek Lokey,DL,73,287,,Nacogdoches,TX,Texas,SO,Y
+Roy Miller,DL,73,301,,Shoemaker,TX,Texas,FR,Y
+Brian Orakpo,DL,76,257,,Houston,TX,Texas,FR,Y
+Tarell Brown,DB,71,190,,Mesquite,TX,Texas,JR,Y
+Cedric Griffin,DB,72,195,,Holmes,TX,Texas,SR,Y
+Michael Griffin,DB,72,202,,Austin,TX,Texas,JR,Y
+Michael Huff,DB,72,211,,Irving,TX,Texas,SR,Y
+Aaron Ross,DB,73,193,,San Antonio,TX,Texas,JR,Y
+Jameis Winston,QB,76,231,,Bessemer,AL,Florida State,FR,Y
+Devonta Freeman,RB,68,206,,Miami,FL,Florida State,JR,Y
+James Wilder,RB,75,232,,,,Florida State,JR,Y
+Rashad Greene,WR,71,186,,Albany,GA,Florida State,JR,Y
+Kelvin Benjamin,WR,77,245,,Belle Glade,FL,Florida State,SO,Y
+Nick O'Leary,TE,75,252,,Palm Beach Gardens,FL,Florida State,JR,Y
+Cameron Erving,OL,77,315,,Moultrie,GA,Florida State,JR,Y
+Bryan Stork,OL,76,315,,Vero Beach,FL,Florida State,SR,Y
+Roberto Aguayo,K,72,207,,Mascotte,FL,Florida State,FR,Y
+Ukeme Eligwe,LB,74,239,,Stone Mountain,GA,Florida State,FR,Y
+Christian Jones,LB,75,245,,Winter Park,FL,Florida State,SR,Y
+Telvin Smith,LB,75,215,,Valdosta,GA,Florida State,SR,Y
+Terrance Smith,LB,74,235,,Decatur,GA,Florida State,SO,Y
+Karlos Williams,DB,73,225,,Devenport,FL,Florida State,SO,Y
+Terrence Brooks,DB,71,205,,Dunnellon,FL,Florida State,SR,Y
+Lamarcus Joyner,DB,68,185,,Miami,FL,Florida State,SR,Y
+Jalen Ramsey,DB,73,208,,Smyrna,TN,Florida State,FR,Y
+PJ Williams,DB,72,196,,Ocala,FL,Florida State,SO,Y
+Eddie Goldman,DT,75,325,,Washington,DC,Florida State,SO,Y
+Timmy Jernigan,DT,74,295,,Columbia,FL,Florida State,JR,Y
+Jacobbi McDaniel,DT,72,293,,Madison,FL,Florida State,SR,Y
+DeMarcus Walker,DT,76,280,,Jacksonville,FL,Florida State,FR,Y
+Trevor Lawrence,QB,78,213,,Cartersville,GA,Clemson,FR,Y
+Travis Etienne,RB,70,210,R,Jennings,LA,Clemson,SO,Y
+Hunter Renfrow,WR,70,185,,Myrtle Beach,SC,Clemson,SR,Y
+Amari Rodgers,WR,69,212,,Knoxville,TN,Clemson,SO,Y
+Tee Higgins,WR,76,215,,Oak Ridge,TN,Clemson,SO,Y
+Justyn Ross,WR,76,205,,,,,FR,Y
+Tavien Feaster,RB,72,221,,Spartanburg,SC,,JR,Y
+Adam Choice,RB,69,220,,Thomasville,GA,,SR,Y
+Derion Kendrick,WR,72,190,,South Pointe,SC,,FR,Y
+Trevion Thompson,WR,74,205,,Durham,NC,,SR,Y
+Cornell Powell,WR,72,210,,Greenville,NC,,JR,Y
+Christian Wilkins,DL,76,310,,Farmingham,MA,,SR,Y
+Xavier Thomas,DL,74,270,,,,,FR,Y
+Kendall Joseph,LB,72,235,,,,,SR,Y
+Tre Lamar,LB,76,250,,Roswell,GA,,JR,Y
+K'Von Wallace,DB,71,205,,Highland Springs,VA,,JR,Y
+Mitch Hyatt,OL,77,305,,Sugar Hill,GA,,SR,Y
+Dexter Lawrence,DL,76,342,,Wake Forest,NC,,JR,Y
+Austin Bryant,DL,77,260,,Pavo,GA,,SR,Y
+Clelin Ferrell,DL,76,265,,Richmond,VA,,JR,Y
+Mark Fields II,DB,70,192,,Charlotte,NC,,SR,Y
+Albert Huggins,DL,75,305,,Orangeburg,SC,,SR,Y
+Trayvon Mullen,DB,74,200,,Fort Lauderdale,FL,,JR,Y
+Tanner Muse,DB,74,227,,South Point,NC,,JR,Y
+AJ Terrell,DB,73,195,,Westlake,GA,,SO,Y
+Isaiah Simmons,LB,76,238,,Omaha,NE,,SO,Y
