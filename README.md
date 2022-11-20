@@ -29,6 +29,7 @@ Plans for final project:
 
 
 **ALTERNATE PROPOSAL: NYC TRAFFIC VIOLATIONS**
+
 Big Idea: The NYC Traffic violations data aims to analyze the traffic rules violations trend and provide necessary recommendations to take preventive measures.
 
  Personas: NYC Police commissioner 
