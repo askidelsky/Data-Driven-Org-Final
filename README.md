@@ -26,3 +26,24 @@ Plans for final project:
 * Create User Persona Documents:
 * Create Journey Map:
 * Big Idea Template:
+
+
+**ALTERNATE PROPOSAL: NYC TRAFFIC VIOLATIONS**
+Big Idea: The NYC Traffic violations data aims to analyze the traffic rules violations trend and provide necessary recommendations to take preventive measures.
+
+ Personas: NYC Police commissioner 
+
+Story Points:
+Analyze NYC traffic violations trends & frequency from 2018
+
+Categorize violations by age group, Violations, and Violators’ State License 
+
+Understand the Traffic tickets issued frequently by day wise and by which Police agencies and plan deputing police on frequent violation weekdays
+
+Summarize the tickets violations reports and communicate to County management for operational needs for budget, forecast, and staffing needs
+
+Share the violations reports by age group to the DMV office to plan preventive training materials 
+
+Communicate the Top 5 violations report to the State transport department to further enforce plans to control the violations like ‘Warning for higher fine for speeding’, higher fines for uninsured & uninspected, etc.
+Data Source:  https://data.ny.gov/Transportation/Traffic-Tickets-Issued-Four-Year-Window/q4hy-kbtf
+![image](https://user-images.githubusercontent.com/54552691/202921520-4def1154-2623-4041-9bf1-0aa6a8006468.png)
